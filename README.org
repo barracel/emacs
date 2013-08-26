@@ -1,6 +1,6 @@
 #+OPTIONS: f:t
 
-* my personal emacs configuration file
+* Barracel's Emacs Config
 
 My current emacs configuration file depends on the fantastic
 bbatsov's prelude https://github.com/bbatsov/prelude
