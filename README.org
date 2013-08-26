@@ -3,7 +3,7 @@
 My current emacs configuration file depends on the fantastic
 bbatsov's prelude https://github.com/bbatsov/prelude
 
-** How to use it [fn:1]
+** How to use it [fn:only_ubuntu]
 Clone the repo an run =setup.sh=. It will take care of cloning prelude's repo
 and creating a link.
 
@@ -16,4 +16,4 @@ to the desired revision of prelude. It's cleaner and it forces me to treat
 prelude as an external dependency.
 
 
-[fn:1] It has been only tested in ubuntu
+[fn:only_ubuntu] It has been only tested in ubuntu
