@@ -1,13 +1,12 @@
-* Barracel's personal emacs configuration file
+* my personal emacs configuration file
 
 My current emacs configuration file depends on the fantastic
 bbatsov's prelude https://github.com/bbatsov/prelude
 
-** How to use it*
+** How to use it [fn:1]
 Clone the repo an run =setup.sh=. It will take care of cloning prelude's repo
 and creating a link.
 
-* It has been only tested in ubuntu
 
 ** Why not a fork of bbatsov's
 
@@ -15,3 +14,6 @@ The recommended way of customizing prelude is by forking and adding your stuff
 to the personal folder. However I prefer having a separate repo where I can link
 to the desired revision of prelude. It's cleaner and it forces me to treat
 prelude as an external dependency.
+
+
+[fn:1] It has been only tested in ubuntu
