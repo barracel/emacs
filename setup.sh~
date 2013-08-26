@@ -1,4 +1,0 @@
-#!/bin/bash
-# Iinital setup of the emacs config
-
-pwd=$(pwd)
